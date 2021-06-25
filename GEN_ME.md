@@ -3,7 +3,7 @@
 
 ## Description 
 
-search city get weather 
+type in city get the weather 
 
 ## Table of Contents 
 
@@ -19,11 +19,11 @@ static website
 
 ## Usage 
 
-It works and you can get the weather of every city. 
+It works for all cities 
 
 ## Credits
 
-No 
+no 
 
 ## License
 
